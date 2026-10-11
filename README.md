@@ -11,4 +11,4 @@ Cloud-native Java backend and fullstack development with a focus on microservice
 - Frontend: Angular, TypeScript
 - Featured project: lv-s3, a self-hosted, S3-compatible object storage server
 
-Contact: mertyagci.de | linkedin.com/in/mertyagci
+Contact: mertyagci.de | linkedin.com/in/myagci
